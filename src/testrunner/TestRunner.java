@@ -10,7 +10,7 @@ public class TestRunner {
     public static void main(String[] args)
             throws IOException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         executeMain(args,
-                rounds.Y2021.A.KGoodness.Solution.class);
+                rounds.Y2020.A.Plates.Solution.class);
     }
 
     private static void executeMain(
